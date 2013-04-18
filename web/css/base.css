@@ -1,0 +1,78 @@
+html {
+    display: block;
+    font-family: 'Helvetia', sans-serif;
+    background-color: #d3d7cf;
+}
+
+body {
+    width: 750px;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: white;
+}
+
+#containerHeader {
+    float: top;
+    overflow: hidden;
+}
+
+#logo {
+    float: left;
+}
+
+#textoLogo {
+    float: right;
+}
+
+#containerMenu {
+    float: top;
+    overflow: hidden;
+}
+
+.menu {
+    width: 100%;
+    color: #d3d7cf;
+    margin: auto;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color:#99FF00;
+}
+
+.menu ul, .menu li{
+    margin: 0px;
+    padding: 8px 16px 8px 0px ;
+    list-style: none;
+    display: inline;
+}
+
+#containerBody {
+    float: top;
+    overflow: hidden;
+}
+
+#fotoPortada {
+    float: right;
+}
+
+#textoPortada {
+    float: left;
+    width: 250px;
+}
+
+#containerFooter {
+    float: bottom;
+    overflow: hidden;
+}
+
+.footer {
+    width: 100%;
+    font-size:70%;
+    background-color: #99FF00;
+    text-align: center;
+}
