@@ -15,7 +15,7 @@
                </a>
             </div>
             <div id="textoLogo">
-                <h4>Desde 1925 fabricando Cajas de Cartón.</h4>
+                <h4>Desde 1924 fabricando Cajas de Cartón.</h4>
             </div>       
         </div>
         <div  class="separador"></div>

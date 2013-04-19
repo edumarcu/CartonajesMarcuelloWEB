@@ -60,19 +60,68 @@ body {
     margin: 15px 0px 0px 0px;
 }
 
-#fotoPortada {
-    float: right;
+.bodyElement{
+    overflow: hidden;
+    width: 730px;
+    margin: auto 10px;
 }
 
-#textoPortada {
-    float: left;
-    width: 230px;
-    margin: 10px;
+.fotoPortada {
+    float: right;
+    width: 500px;
 }
 
 .textoPortada {
-    padding: 30px 5px 0px 0px;
-    text-align : justify;
+    float: left;
+    width: 230px;
+}
+
+#textoPortada {
+    padding: 30px 20px 0px 0px;
+    text-align : justify; 
+}
+
+#fotoPortada {
+}
+
+.texto3left, .texto3center, .texto3right {
+    float: left;
+    width: 240px;
+}
+
+.textoImagen-texto {
+    float: left;
+    width: 200px;
+}
+
+#textoImagen-texto {
+    padding: 30px 20px 0px 0px;
+    text-align: right; 
+}
+
+.textoImagen-imagen {
+    float: right;
+    width: 500px;
+}
+
+.imagenTexto-texto {
+    float: right;
+    width: 200px;
+}
+
+#imagenTexto-texto {
+    padding: 30px 20px 0px 0px;
+    text-align: left; 
+}
+
+.imagenTexto-imagen {
+    float: left;
+    width: 500px;
+}
+
+#textoHistoria, #textoOrigenes, #textoActualidad {
+    padding: 0px 10px 0px 10px;
+    text-align : justify; 
 }
 
 #containerFooter {
