@@ -6,10 +6,6 @@
                     <a href="mailto:admon@cmarcuello.com" title="mailto:admon@cmarcuello.com">admon@cmarcuello.com</a>
                 </p>
             </div>
-<<<<<<< HEAD:CartonajesMarcuelloWEB/web/views/_layout/footer.jsp
-        <div>
-=======
         </div>
->>>>>>> 0.2:web/views/_layout/footer.jsp
     </body>
 </html>
