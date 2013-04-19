@@ -12,7 +12,11 @@
                 <img src="${base}/images/foto frontal fábrica.gif">
             </div>
             <div id="textoPortada">
-                <p>hola sdfsdfsf sdfs dsdfasdfasda dfas df asdf asdf asdf asdf asdf asd fsad </p>
+                <p class="textoPortada">As you wish. No! Alderaan is peaceful. We have no weapons. You can't possibly…
+                    I can't get involved! I've got work to do! It's not that I like the Empire, I hate it,
+                    but there's nothing I can do about it right now. It's such a long way from here. 
+                    Remember, a Jedi can feel the Force flowing through him. 
+                </p>
             </div>
         </div>
 <%@include  file="views/_layout/footer.jsp"%>

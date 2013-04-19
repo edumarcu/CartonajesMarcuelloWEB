@@ -1,5 +1,4 @@
 html {
-    display: block;
     font-family: 'Helvetia', sans-serif;
     background-color: #d3d7cf;
 }
@@ -12,7 +11,6 @@ body {
 }
 
 #containerHeader {
-    float: top;
     overflow: hidden;
 }
 
@@ -24,14 +22,17 @@ body {
     float: right;
 }
 
+.separador {
+    color: #99FF00;
+    border: 1px solid;
+    margin: 5px 0px;
+}
+
 #containerMenu {
-    float: top;
     overflow: hidden;
 }
 
 .menu {
-    width: 100%;
-    color: #d3d7cf;
     margin: auto;
 }
 
@@ -44,16 +45,19 @@ body {
     color:#99FF00;
 }
 
-.menu ul, .menu li{
-    margin: 0px;
-    padding: 8px 16px 8px 0px ;
+.menu ul {
+    margin: auto;
+}
+
+.menu li {
+    padding: 0px 10px 0px 10px ;
     list-style: none;
     display: inline;
 }
 
 #containerBody {
-    float: top;
     overflow: hidden;
+    margin: 15px 0px 0px 0px;
 }
 
 #fotoPortada {
@@ -62,16 +66,20 @@ body {
 
 #textoPortada {
     float: left;
-    width: 250px;
+    width: 230px;
+    margin: 10px;
+}
+
+.textoPortada {
+    padding: 30px 5px 0px 0px;
+    text-align : justify;
 }
 
 #containerFooter {
-    float: bottom;
     overflow: hidden;
 }
 
 .footer {
-    width: 100%;
     font-size:70%;
     background-color: #99FF00;
     text-align: center;

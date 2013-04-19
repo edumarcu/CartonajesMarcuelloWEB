@@ -18,6 +18,7 @@
                 <h4>Desde 1925 fabricando Cajas de Cartón.</h4>
             </div>       
         </div>
+        <div  class="separador"></div>
         <div id="containerMenu">
             <div class="menu">
                 <ul>
@@ -30,3 +31,4 @@
                 </ul>
             </div>
         </div>
+        <div  class="separador"></div>
