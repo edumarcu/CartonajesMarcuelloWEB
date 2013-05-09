@@ -15,7 +15,7 @@
                </a>
             </div>
             <div id="textoLogo">
-                <h4>Desde 1924 fabricando Cajas de Cartón.</h4>
+                <h5><i>Desde 1924 fabricando Cajas de Cartón.</i></h5>
             </div>       
         </div>
         <div  class="separador"></div>
@@ -24,10 +24,10 @@
                 <ul>
                     <li><a href="${base}/views/quienes_somos.jsp">Quienes Somos</a></li>
                     <li><a href="${base}/views/productos_y_servicios.jsp">Productos y Servicios</a></li>
-                    <li><a href="${base}/views/h&q.jsp">H & Q</a></li>
+<!--                      <li><a href="${base}/views/h&q.jsp">H & Q</a></li>-->
                     <li><a href="${base}/views/situacion.jsp">Situación</a></li>
                     <li><a href="${base}/views/contacto.jsp">Contacto</a></li>
-                    <li><a href="${base}/views/partners.jsp">Partners</a></li>
+<!--                    <li><a href="${base}/views/partners.jsp">Partners</a></li>-->
                 </ul>
             </div>
         </div>

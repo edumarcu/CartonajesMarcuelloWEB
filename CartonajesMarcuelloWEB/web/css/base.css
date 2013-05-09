@@ -1,5 +1,5 @@
 html {
-    font-family: 'Helvetia', sans-serif;
+    font-family: "Helvetica", sans-serif;
     background-color: #d3d7cf;
 }
 
@@ -8,6 +8,10 @@ body {
     margin: 25px auto;
     padding: 15px;
     background-color: white;
+}
+
+p {
+    font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
 }
 
 #containerHeader {
@@ -34,6 +38,9 @@ body {
 
 .menu {
     margin: auto;
+    width: 85%;
+    font-family: "Tahoma", "Geneva", sans-serif;
+    font-weight: bold; 
 }
 
 .menu a {
@@ -57,7 +64,7 @@ body {
 
 #containerBody {
     overflow: hidden;
-    margin: 15px 0px 0px 0px;
+    margin: 15px 0px 15px 0px;
 }
 
 .bodyElement{

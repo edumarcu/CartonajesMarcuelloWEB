@@ -13,10 +13,10 @@
                     <img id="fotoPortada" src="${base}/images/foto frontal fábrica.gif" width="500" height="350">
                 </div>
                 <div class="textoPortada">
-                    <p id="textoPortada">As you wish. No! Alderaan is peaceful. We have no weapons. You can't possibly…
-                        I can't get involved! I've got work to do! It's not that I like the Empire, I hate it,
-                        but there's nothing I can do about it right now. It's such a long way from here. 
-                        Remember, a Jedi can feel the Force flowing through him. 
+                    <p id="textoPortada">Ubicada en la actualidad el Polígono Empresarium (La Cartuja Baja), 
+                        la fábrica de Cajas de Cartón con <b>más tiempo de experiencia en Aragón</b> ofrece una gran cantidad 
+                        de Productos Manufacturados a la medida de cliente, con la <b>Calidad</b> y la <b>Distinción</b>
+                        que le caracteriza desde 1924.
                     </p>
                 </div>
             </div>
