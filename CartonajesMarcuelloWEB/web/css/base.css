@@ -1,3 +1,4 @@
+/* GENERAL-------------------------------------------- */
 html {
     font-family: "Helvetica", sans-serif;
     background-color: #d3d7cf;
@@ -10,14 +11,28 @@ body {
     background-color: white;
 }
 
-h3 {
-    text-align: center;
+#containerBody {
+    overflow: hidden;
+    margin: 5px 0px 5px 0px;
 }
 
-p, #textoVision{
+.bodyElement{
+    overflow: hidden;
+    width: 730px;
+    margin: 15px auto;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Tahoma", "Geneva", sans-serif;
+    font-weight: bold; 
+}
+
+p {
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
 }
 
+/* HEADER ------------------------------------------ */
 #containerHeader {
     overflow: hidden;
 }
@@ -26,11 +41,11 @@ p, #textoVision{
     float: left;
 }
 
-#textoLogo {
+#textLogo {
     float: right;
 }
 
-.separador {
+.separator {
     color: #99FF00;
     border: 1px solid;
     margin: 5px 0px;
@@ -66,40 +81,55 @@ p, #textoVision{
     display: inline;
 }
 
-#containerBody {
-    overflow: hidden;
-    margin: 15px 0px 15px 0px;
-}
-
-.bodyElement{
-    overflow: hidden;
-    width: 730px;
-    margin: auto 10px;
-}
-
-.fotoPortada {
+/* FRONT------------------------------------------------ */
+.photoFront {
     float: right;
     width: 500px;
 }
 
-.textoPortada {
+#photoFront {
+}
+
+.textFront {
     float: left;
     width: 230px;
 }
 
-#textoPortada {
+#textFront {
     padding: 30px 20px 0px 0px;
     text-align : justify; 
 }
 
-#fotoPortada {
+/* WHOAREWE------------------------------------------- */
+.images {
+    text-align: center;
 }
-
-.texto3left, .texto3center, .texto3right {
+.text3left, .text3center, .text3right {
     float: left;
     width: 240px;
 }
 
+#textOrigenes, #textVision, #textMision, #textValores {
+    font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
+    font-size: 80%;
+}
+
+#textJose {
+    width: 600px;
+    float: left;
+}
+#imageJose {
+    float: right;
+}
+
+#textEduardo {
+    width: 600px;
+    float: right;
+}
+#imageEduardo {
+    float: left;
+}
+/*
 .textoImagen-texto {
     float: left;
     width: 200px;
@@ -134,7 +164,9 @@ p, #textoVision{
     padding: 0px 10px 0px 10px;
     text-align : justify; 
 }
+*/
 
+/* FOOTER ---------------------------------------------------- */
 #containerFooter {
     overflow: hidden;
 }

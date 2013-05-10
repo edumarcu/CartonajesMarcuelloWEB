@@ -14,11 +14,11 @@
                    <img src="${base}/images/CartonajesMarcuello.jpg" alt="Cartonajes Marcuello" title="Cartonajes Marcuello" border="0">
                </a>
             </div>
-            <div id="textoLogo">
+            <div id="textLogo">
                 <h5><i>Desde 1924 fabricando Cajas de Cartón.</i></h5>
             </div>       
         </div>
-        <div  class="separador"></div>
+        <div  class="separator"></div>
         <div id="containerMenu">
             <div class="menu">
                 <ul>
@@ -31,4 +31,4 @@
                 </ul>
             </div>
         </div>
-        <div  class="separador"></div>
+        <div  class="separator"></div>

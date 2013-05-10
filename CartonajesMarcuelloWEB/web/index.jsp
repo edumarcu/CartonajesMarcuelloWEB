@@ -9,11 +9,11 @@
 <%@include  file="views/_layout/header.jsp"%>
         <div id="containerBody">
             <div class="bodyElement">
-                <div class="fotoPortada">
-                    <img id="fotoPortada" src="${base}/images/CartonajesMarcuelloFachada.jpg" width="500" height="350">
+                <div class="photoFront">
+                    <img id="photoFront" src="${base}/images/CartonajesMarcuelloFachada.jpg" width="500" height="350">
                 </div>
-                <div class="textoPortada">
-                    <p id="textoPortada">Ubicada en la actualidad el Polígono Empresarium (La Cartuja Baja), 
+                <div class="textFront">
+                    <p id="textFront">Ubicada en la actualidad el Polígono Empresarium (La Cartuja Baja), 
                         la fábrica de Cajas de Cartón con <b>más tiempo de experiencia en Aragón</b> ofrece una gran cantidad 
                         de Productos Manufacturados a la medida de cliente, con la <b>Calidad</b> y la <b>Distinción</b>
                         que le caracteriza desde 1924.
