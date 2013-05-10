@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <title>Cartonajes Marcuello S.A.</title>
         <link rel="stylesheet" type="text/css" href="${base}/css/base.css" />
-        <link rel="icon" type="image/png" href="${base}/images/CartonajesMarcuelloICO.png" />
+        <link rel="shorcut icon" href="${base}/images/CartonajesMarcuello.ico" />
     </head>
     <body>
         <div id="containerHeader">

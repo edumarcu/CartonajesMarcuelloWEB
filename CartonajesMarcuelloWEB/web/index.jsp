@@ -10,7 +10,7 @@
         <div id="containerBody">
             <div class="bodyElement">
                 <div class="fotoPortada">
-                    <img id="fotoPortada" src="${base}/images/foto frontal fábrica.gif" width="500" height="350">
+                    <img id="fotoPortada" src="${base}/images/CartonajesMarcuelloFachada.jpg" width="500" height="350">
                 </div>
                 <div class="textoPortada">
                     <p id="textoPortada">Ubicada en la actualidad el Polígono Empresarium (La Cartuja Baja), 

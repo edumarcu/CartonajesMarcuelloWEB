@@ -10,7 +10,11 @@ body {
     background-color: white;
 }
 
-p {
+h3 {
+    text-align: center;
+}
+
+p, #textoVision{
     font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
 }
 
