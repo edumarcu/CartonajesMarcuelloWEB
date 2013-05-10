@@ -9,13 +9,19 @@
 <%@include  file="_layout/header.jsp"%>
         <div id="containerBody">
             <div class="bodyElement">
-                <div class="textoImagen-texto">
-                    <p id="textoCajaGrande">There's no part of that sentence I didn't like! Shut up and take my money! 
-                        But I know you in the future. I cleaned your poop.</p>
-                </div>
-                <div class="textoImagen-imagen">
-                    <img id="imagenCajaGrande" src="${base}/images/350x200.gif" width="350" height="200">
+                <h3>Planta de Producción</h3>
+                <div class="images">
+                    <img id="imagenProduccionIzquierda" src="${base}/images/CartonajesMarcuelloPlantaIzda.jpg" width="185" height="200">
+                    <img id="imagenProduccionCentro" src="${base}/images/CartonajesMarcuelloPlanta.jpg" width="350" height="200">
+                    <img id="imagenProduccionDerecha" src="${base}/images/CartonajesMarcuelloPlantaDcha.jpg" width="185" height="200">
                 </div>
             </div>
+            <div class="bodyElement">
+                 <h3>Oficinas</h3>
+                 <div class="images">
+                     <img id="imagenOficinas" src="${base}/images/CartonajesMarcuelloOficinasRecepcion.jpg" width="250px" height="187px">
+                     <img id="imagenOficinas" src="${base}/images/CartonajesMarcuelloOficinasDireccion.jpg" width=250px height=187px>
+                 </div>
+             </div>
         </div>
 <%@include  file="_layout/footer.jsp"%>

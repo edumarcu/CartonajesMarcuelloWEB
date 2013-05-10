@@ -8,20 +8,12 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@include  file="_layout/header.jsp"%>
         <div id="containerBody">
-            <div class="bodyElement">
-    <!--                <div class="textoImagen-texto">
-                        <p id="textoProduccion">Planta de Producción</p>
-                    </div>
-                    <div class="textoImagen-imagen">
-                        <img id="imagenProduccion" src="${base}/images/CartonajesMarcuelloPlanta.jpg" width="350" height="200">
-                    </div>
-    -->
-            <h5>Orígenes</h5>
+            <h3>La Empresa</h3>
             <div class="bodyElement">
                 <p id="textJose">En el año 1924 un intrépido joven, llamado <b>D. José Marcuello Catatán</b> y oriundo de Daroca, 
                 decide emprender un negocio de <b>Cajas de Cartón para zapatos</b>, al observar la creciente demanda de
                 envases de este tipo en la ciudad de Zaragoza.</p>
-                <img id="imageJose" src="${base}/images/CartonajesMarcuelloOficinasJose2.jpg" width="114" height="150">
+                <img id="imageJose" src="${base}/images/CartonajesMarcuelloOficinasJose.jpg" width="114" height="150">
             </div>  
             <div class="bodyElement">
                 <img id="imageEduardo" src="${base}/images/CartonajesMarcuelloOficinasEduardo.jpg" width="114" height="150">
@@ -34,25 +26,14 @@
                 <p  id="textFrancisco">Un nuevo traslado llevaría la compañía a La Muela, dónde se haría cargo de la 
                 compañía <b>D. Franciso Marcuello Albalat</b>, siendo la tercera generación la que estabilizaría la 
                 producción e introduciría paulatinamente la tecnología en todo el proceso productivo y de gestión.</p>
-                <p>Finalmente, <b>Cartonajes Marcuello</b> sería trasladada al <b>Polígono Industrial Empresarium</b>, 
+                <img id="imageFrancisco" src="${base}/images/CartonajesMarcuelloOficinasFranciscoPeque.jpg" width="138" height="150">
+            </div>
+            <div class="bodyElement">
+                <p id="textStaff">Finalmente, <b>Cartonajes Marcuello</b> sería trasladada al <b>Polígono Industrial Empresarium</b>, 
                 donde se encuentra en la actualidad, dando servicio a más de 1000 clientes y contando con una plantilla 
                 de 12 empleados fijos.</p>
+                <img id="imageStaff" src="${base}/images/CartonajesMarcuelloStaff.jpg" width="200" height="150">
             </div>
-            <div class="bodyElement">
-                <h5>Planta de Producción</h5>
-                <div class="images">
-                    <img id="imagenProduccionIzquierda" src="${base}/images/CartonajesMarcuelloPlantaIzda.jpg" width="185" height="200">
-                    <img id="imagenProduccionCentro" src="${base}/images/CartonajesMarcuelloPlanta.jpg" width="350" height="200">
-                    <img id="imagenProduccionDerecha" src="${base}/images/CartonajesMarcuelloPlantaDcha.jpg" width="185" height="200">
-                </div>
-            </div>
-            <div class="bodyElement">
-                 <h5>Oficinas</h5>
-                 <div class="images">
-                     <img id="imagenOficinas" src="${base}/images/CartonajesMarcuelloOficinasRecepcion.jpg" width="250px" height="187px">
-                     <img id="imagenOficinas" src="${base}/images/CartonajesMarcuelloOficinasDireccion2.jpg" width=250px height=187px>
-                 </div>
-             </div>
              <div class="bodyElement">
                  <div class="text3left">
                      <h3>Misión</h3>
