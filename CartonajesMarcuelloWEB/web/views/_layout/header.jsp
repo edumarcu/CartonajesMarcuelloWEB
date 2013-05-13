@@ -15,7 +15,8 @@
                </a>
             </div>
             <div id="textLogo">
-                <h5><i>Desde 1924 fabricando Cajas de Cartón.</i></h5>
+                <span><i>Desde 1924 fabricando Cajas de Cartón.</i></span>
+                <img src="${base}/images/caja.jpg"  width="80" height="73">
             </div>       
         </div>
         <div  class="separator"></div>

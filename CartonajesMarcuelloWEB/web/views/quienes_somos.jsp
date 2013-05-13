@@ -31,7 +31,7 @@
             <div class="bodyElement">
                 <p id="textStaff">Finalmente, <b>Cartonajes Marcuello</b> sería trasladada al <b>Polígono Industrial Empresarium</b>, 
                 donde se encuentra en la actualidad, dando servicio a más de 1000 clientes y contando con una plantilla 
-                de 12 empleados fijos.</p>
+                de 12 empleados.</p>
                 <img id="imageStaff" src="${base}/images/CartonajesMarcuelloStaff.jpg" width="200" height="150">
             </div>
              <div class="bodyElement">

@@ -11,16 +11,16 @@
             <div class="bodyElement">
                 <h3>Planta de Producción</h3>
                 <div class="images">
-                    <img id="imagenProduccionIzquierda" src="${base}/images/CartonajesMarcuelloPlantaIzda.jpg" width="185" height="200">
-                    <img id="imagenProduccionCentro" src="${base}/images/CartonajesMarcuelloPlanta.jpg" width="350" height="200">
-                    <img id="imagenProduccionDerecha" src="${base}/images/CartonajesMarcuelloPlantaDcha.jpg" width="185" height="200">
+                    <img id="imageProduccionIzquierda" src="${base}/images/CartonajesMarcuelloPlantaIzda.jpg" width="185" height="200">
+                    <img id="imageProduccionCentro" src="${base}/images/CartonajesMarcuelloPlanta.jpg" width="350" height="200">
+                    <img id="imageProduccionDerecha" src="${base}/images/CartonajesMarcuelloPlantaDcha.jpg" width="185" height="200">
                 </div>
             </div>
             <div class="bodyElement">
                  <h3>Oficinas</h3>
                  <div class="images">
-                     <img id="imagenOficinas" src="${base}/images/CartonajesMarcuelloOficinasRecepcion.jpg" width="250px" height="187px">
-                     <img id="imagenOficinas" src="${base}/images/CartonajesMarcuelloOficinasDireccion.jpg" width=250px height=187px>
+                     <img id="imageOficinas" src="${base}/images/CartonajesMarcuelloOficinasRecepcion.jpg" width="250px" height="187px">
+                     <img id="imageOficinas" src="${base}/images/CartonajesMarcuelloOficinasDireccion.jpg" width=250px height=187px>
                  </div>
              </div>
         </div>
