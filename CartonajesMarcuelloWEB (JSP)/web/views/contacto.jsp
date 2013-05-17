@@ -23,7 +23,7 @@
                 </div>
                 <div class="address">
                     <img id="imageAddress" src="${base}/images/envelope.jpg" width="80" height="80">
-                    <span id="textAddress">A-68 Polígono Empresarium, C/ Ajedrea 8, 50720 LA CARTUJA BAJA (ZARAGOZA)</span>
+                    <span id="textAddress">Polígono Empresarium, C/ Ajedrea 8, 50720 LA CARTUJA BAJA (ZARAGOZA)</span>
                 </div>
             </div>
         </div>
