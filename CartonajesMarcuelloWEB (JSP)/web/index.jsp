@@ -7,7 +7,7 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@include  file="views/_layout/header.jsp"%>
-        <div id="containerBody">
+        <div class="containerBody">
             <div class="bodyElement">
                 <div class="photoFront">
                     <img id="photoFront" src="${base}/images/CartonajesMarcuelloFachada.jpg" width="500" height="350">

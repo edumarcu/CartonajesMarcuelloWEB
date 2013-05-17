@@ -11,7 +11,7 @@ body {
     background-color: white;
 }
 
-#containerBody {
+.containerBody {
     overflow: hidden;
     margin: 5px 0px 5px 0px;
 }
@@ -33,7 +33,7 @@ img {
 }
 
 /* HEADER ------------------------------------------ */
-#containerHeader {
+.containerHeader {
     overflow: hidden;
 }
 
@@ -51,7 +51,7 @@ img {
     margin: 5px 0px;
 }
 
-#containerMenu {
+.containerMenu {
     overflow: hidden;
 }
 
@@ -153,49 +153,13 @@ img {
 #imageFax, #imageAddress {
     vertical-align: middle;
 }
-/*
-.textoImagen-texto {
-    float: left;
-    width: 200px;
-}
-
-#textoImagen-texto {
-    padding: 30px 20px 0px 0px;
-    text-align: right; 
-}
-
-.textoImagen-imagen {
-    float: right;
-    width: 500px;
-}
-
-.imagenTexto-texto {
-    float: right;
-    width: 200px;
-}
-
-#imagenTexto-texto {
-    padding: 30px 20px 0px 0px;
-    text-align: left; 
-}
-
-.imagenTexto-imagen {
-    float: left;
-    width: 500px;
-}
-
-#textoHistoria, #textoOrigenes, #textoActualidad {
-    padding: 0px 10px 0px 10px;
-    text-align : justify; 
-}
-*/
 
 /* FOOTER ---------------------------------------------------- */
-#containerFooter {
+.containerFooter {
     overflow: hidden;
 }
 
-.footer {
+#footer {
     font-family: "Helvetia", sans-serif;
     font-size:70%;
     background-color: #99FF00;

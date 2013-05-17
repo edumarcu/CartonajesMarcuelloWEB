@@ -11,7 +11,7 @@ body {
     background-color: white;
 }
 
-#containerBody {
+.containerBody {
     overflow: hidden;
     margin: 5px 0px 5px 0px;
 }
@@ -29,7 +29,7 @@ h3 {
 }
 
 /* HEADER ------------------------------------------ */
-#containerHeader {
+.containerHeader {
     overflow: hidden;
 }
 
@@ -47,7 +47,7 @@ h3 {
     margin: 5px 0px;
 }
 
-#containerMenu {
+.containerMenu {
     overflow: hidden;
 }
 
@@ -187,11 +187,11 @@ h3 {
 */
 
 /* FOOTER ---------------------------------------------------- */
-#containerFooter {
+.containerFooter {
     overflow: hidden;
 }
 
-.footer {
+#footer {
     font-family: "Helvetia", sans-serif;
     font-size:70%;
     background-color: #99FF00;

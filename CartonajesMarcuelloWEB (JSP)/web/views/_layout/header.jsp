@@ -8,7 +8,7 @@
         <link rel="icon" type="image/x-icon" href="${base}/images/CartonajesMarcuello.ico" />
     </head>
     <body>
-        <div id="containerHeader">
+        <div class="containerHeader">
             <div id="logo">
                 <a href="${base}/index">
                    <img src="${base}/images/CartonajesMarcuello.jpg" alt="Cartonajes Marcuello" title="Cartonajes Marcuello" border="0">
@@ -19,8 +19,8 @@
                 <img src="${base}/images/caja.jpg"  width="80" height="73">
             </div>       
         </div>
-        <div  class="separator"></div>
-        <div id="containerMenu">
+        <div class="separator"></div>
+        <div class="containerMenu">
             <div class="menu">
                 <ul>
                     <li><a href="${base}/views/quienes_somos.jsp">Quienes Somos</a></li>

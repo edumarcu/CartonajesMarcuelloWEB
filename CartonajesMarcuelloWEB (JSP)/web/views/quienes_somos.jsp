@@ -7,7 +7,7 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@include  file="_layout/header.jsp"%>
-        <div id="containerBody">
+        <div class="containerBody">
             <h3>La Empresa</h3>
             <div class="bodyElement">
                 <p id="textJose">En el año 1924 un intrépido joven, llamado <b>D. José Marcuello Catatán</b> y oriundo de Daroca, 
