@@ -72,6 +72,7 @@ img {
 .menu ul {
     margin: auto;
     text-align: center;
+    padding: 0px;
 }
 
 .menu li {
